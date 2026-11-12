@@ -1,0 +1,5 @@
+/build*/
+/local-install/
+CMakeUserPresets.json
+*.user
+*.core

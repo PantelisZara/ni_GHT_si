@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=ni_GHT_si
+Comment=Native Linux system monitor
+Exec=night-monitor
+Icon=utilities-system-monitor
+Terminal=false
+Categories=System;Monitor;
+StartupNotify=true
